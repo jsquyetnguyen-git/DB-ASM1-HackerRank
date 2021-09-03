@@ -1,1 +1,22 @@
 # DB-ASM1-HackerRank
+## Hackerrank
+
+1. [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)
+1. [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)
+1. [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)
+1. [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)
+1. [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)
+1. [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)
+1. [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)
+1. [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)
+1. [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)
+1. [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)
+1. [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)
+1. [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)
+1. [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)
+1. [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)
+1. [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem)
+1. [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)
+1. [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)
+1. [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)
+1. [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)
